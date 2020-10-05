@@ -1,0 +1,156 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "AlbumTitle": "Reds",
+      "thumb": "https://images.unsplash.com/photo-1517519014922-8fc06b814a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Doggy with style",
+          "src": "https://images.unsplash.com/photo-1517519014922-8fc06b814a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Concert",
+          "src": "https://images.unsplash.com/photo-1468270738566-d3ec1f179d5c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Taiwanese Temple",
+          "src": "https://images.unsplash.com/photo-1519181245277-cffeb31da2e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 4,
+          "title": "Flower",
+          "src": "https://images.unsplash.com/photo-1471138406156-7a89e687a062?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "AlbumTitle": "Blue",
+      "thumb": "https://images.unsplash.com/photo-1445820200644-69f87d946277?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Parrot",
+          "src": "https://images.unsplash.com/photo-1445820200644-69f87d946277?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Ocean",
+          "src": "https://images.unsplash.com/photo-1478422568152-aa2670280307?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Morocco",
+          "src": "https://images.unsplash.com/photo-1526234172573-67cabe4ebc80?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "AlbumTitle": "Yellow",
+      "thumb": "https://images.unsplash.com/photo-1504116468057-3951eae10a58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Yellow Vase",
+          "src": "https://images.unsplash.com/photo-1504116468057-3951eae10a58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Color Celebration",
+          "src": "https://images.unsplash.com/photo-1491140162236-6448ea91bc8f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Balls",
+          "src": "https://images.unsplash.com/photo-1521913626209-0fbf68f4c4b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 4,
+          "title": "Amer, India",
+          "src": "https://images.unsplash.com/photo-1510765355166-88d0a7dd8d6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "AlbumTitle": "Purple",
+      "thumb": "https://images.unsplash.com/photo-1558350283-8269d86681f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Flowers",
+          "src": "https://images.unsplash.com/photo-1558350283-8269d86681f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Neonstromo",
+          "src": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2023&q=80"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Violet Breath",
+          "src": "https://images.unsplash.com/photo-1583339522870-0d9f28cef33f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "AlbumTitle": "Orange",
+      "thumb": "https://images.unsplash.com/photo-1521354465180-c1ceac1d709a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Orange Car",
+          "src": "https://images.unsplash.com/photo-1521354465180-c1ceac1d709a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Miksang Shot Color",
+          "src": "https://images.unsplash.com/photo-1495366554757-8568e69d7f80?ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Waiting Room",
+          "src": "https://images.unsplash.com/photo-1519142804859-5cdfb6350d86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "AlbumTitle": "Greens",
+      "thumb": "https://images.unsplash.com/photo-1500877015165-e1fb7f2db007?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "pictures": [
+        {
+          "Photo-id": 1,
+          "title": "Silverthorne",
+          "src": "https://images.unsplash.com/photo-1500877015165-e1fb7f2db007?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 2,
+          "title": "Art House",
+          "src": "https://images.unsplash.com/photo-1571038520786-cd3be7ecaacb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1383&q=80"
+        },
+        {
+          "Photo-id": 3,
+          "title": "Fruit Plant",
+          "src": "https://images.unsplash.com/photo-1596868971288-8a9f49ba36f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "Photo-id": 4,
+          "title": "Moss",
+          "src": "https://images.unsplash.com/photo-1601331534911-67957125149b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "title": "Ripening bananas",
+          "src": "https://images.unsplash.com/photo-1464918877125-24db0dc393cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    }
+  ]
+}

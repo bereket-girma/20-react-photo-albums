@@ -1,0 +1,81 @@
+h3 {
+  text-align: center;
+  font-size: 25px;
+  background-color: grey;
+  padding: 30px 0;
+  border-bottom: 1px solid grey;
+  margin-top: 0;
+  width: 80%;
+  margin: auto;
+}
+.container {
+  border: 1px solid grey;
+  width: 80%;
+  margin: auto;
+  margin-top: 1px;
+  display: flex;
+  flex-wrap: wrap;
+  height: 600px;
+}
+
+.grid {
+  width: 30%;
+  /* margin: auto; */
+  margin-top: 26px;
+  margin-left: 28px;
+}
+
+.grid img {
+  width: 50%;
+  height: 84%;
+  margin-left: 158px;
+}
+
+.grid a img {
+  margin-left: 100px;
+  width: 44%;
+  height: 200px;
+  border: 3px solid black;
+  margin-top: 3px;
+}
+
+.title {
+  margin-left: 100px;
+  border: 3px solid black;
+  width: 134px;
+  text-align: center;
+  padding: 9px;
+  margin-top: -3px;
+  color: black;
+}
+
+.modal {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  background: white;
+  z-index: 1;
+}
+.modal img {
+  width: 80%;
+  height: 700px;
+  /* margin: auto; */
+  margin: 0 137px;
+  border: 1px solid white;
+  background-color: white;
+}
+h4 {
+  text-align: center;
+}
+ul {
+  border-right: 3px solid grey;
+  padding: 38px;
+}
+
+li {
+  list-style: none;
+  list-style: none;
+  margin-bottom: 66px;
+  color: black;
+  
+}
